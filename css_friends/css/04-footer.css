@@ -1,0 +1,33 @@
+/* PHASE 4: Footer */
+.footer-nav {
+  margin: 0 auto;
+  width: 900px;
+  height: 50px;
+  border: 1px solid darkgray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  color: darkgray;
+}
+
+.footer-copyrights {
+  padding-left: 10px;
+}
+
+.footer-nav a {
+  color: darkgray;
+}
+
+.footer-list {
+  display: flex;
+  padding-right: 10px;
+}
+
+.footer a {
+  padding: 10px;
+}
+
+.footer a:hover {
+  color: black;
+}
